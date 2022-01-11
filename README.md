@@ -2,7 +2,7 @@
 
 > A delicate, single page theme, so beautiful, right?
 
-![Hola](https://user-images.githubusercontent.com/60814886/148931933-860e15d5-9b9d-44e0-b4f2-4ffed74f067b.png)
+![Hola](https://cdn.jsdelivr.net/gh/isecret/img@latest/982ACAD4940DAEB88EEDDA6810B9D7B0.png)
 
 ## How use it?
 
