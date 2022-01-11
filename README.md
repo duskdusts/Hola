@@ -2,7 +2,7 @@
 
 > A delicate, single page theme, so beautiful, right?
 
-![Hola](https://static.isecret.vip/screencapture-blog-isecret-vip-2018-05-15-19_00_21.png)
+![Hola](https://user-images.githubusercontent.com/60814886/148931933-860e15d5-9b9d-44e0-b4f2-4ffed74f067b.png)
 
 ## How use it?
 
